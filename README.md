@@ -54,5 +54,7 @@ A simple REST API built with Spring Boot to manage student data with basic CRUD 
 ```
 
 2. Start the Spring Boot application:
-  ./mvnw spring-boot:run
+   ```bash
+     ./mvnw spring-boot:run
+   ```
 
